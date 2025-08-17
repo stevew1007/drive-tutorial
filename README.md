@@ -8,8 +8,8 @@
 - [ ] file uploading
 - [ ] posthog
 
-## Pending
+## Pending 1:49:49
 
-- [x]] change folder to link components, remove all client state
-- [ ] Clean up database and data fetching pattern
+- [x] change folder to link components, remove all client state
+- [x] Clean up database and data fetching pattern
 - [ ] Real homepage
