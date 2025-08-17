@@ -2,7 +2,7 @@
 
 ## TODO
 
-- [ ] Setup database
+- [x] Setup database
 - [ ] Move folder open State
 - [ ] Auth
 - [ ] file uploading
